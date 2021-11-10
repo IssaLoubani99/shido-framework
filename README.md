@@ -1,7 +1,7 @@
 ![SHIDO Framework Poster](https://raw.githubusercontent.com/IssaLoubani99/shido-framework/main/images/title.jpg)
 
 # Project Background
-The SHIDO project served as a project in the Embedded system course in the Lebanese International University in my path for earning a Bachelor Degree in CCE. And continued to be standalone framework.
+The SHIDO project served as a project in the Embedded system course in the Lebanese International University in my path for earning a Bachelor Degree in CCE, and continued to be a standalone framework.
 # SHIDO
 The SHIDO project is dedicated to implement **shell** (terminal) on Arduino as well as a control environment capable of automated tasks offering a dynamic way to control Arduinos with a code that does not need to flashed each time or changing it.
 
